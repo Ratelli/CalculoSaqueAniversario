@@ -1,0 +1,15 @@
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\bin\Debug\net9.0\SaqueAniversario.exe
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\bin\Debug\net9.0\SaqueAniversario.deps.json
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\bin\Debug\net9.0\SaqueAniversario.runtimeconfig.json
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\bin\Debug\net9.0\SaqueAniversario.dll
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\bin\Debug\net9.0\SaqueAniversario.pdb
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.AssemblyInfoInputs.cache
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.AssemblyInfo.cs
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.csproj.CoreCompileInputs.cache
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.sourcelink.json
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.dll
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\refint\SaqueAniversario.dll
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.pdb
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\SaqueAniversario.genruntimeconfig.cache
+C:\Estacio\ADA TECH\C#\CalculoSaqueAniversario\CalculoSaqueAniversario\SaqueAniversario\obj\Debug\net9.0\ref\SaqueAniversario.dll
